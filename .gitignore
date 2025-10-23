@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+# Data
+notebooks/Ex_1/hackernews-articles.csv
+notebooks/Ex_1/hn_articles.csv
+notebooks/Ex_1/lemma-index.json
+notebooks/Ex_1/stem-index.json
+notebooks/Ex_1/word-index.json
